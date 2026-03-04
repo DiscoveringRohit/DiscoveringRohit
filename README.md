@@ -1,1 +1,137 @@
-<div align="center">\n  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Rohit%20Kumar&fontSize=50&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />\n</div>\n\n<div align="center">\n  <a href="https://git.io/typing-svg">\n    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27F1FF&center=true&vCenter=true&width=530&lines=🎓+Second-year+CSE+Student+at+ITER+SOA;💻+Passionate+about+Web+Development;🚀+Diving+deep+into+DSA;🧠+Building+in+Public!" alt="Typing SVG" />\n  </a>\n</div>\n\n<p align="center">\n  <a href="https://www.linkedin.com/in/rohit-kumar-604884333" target="_blank">\n    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />\n  </a>\n  <a href="https://www.instagram.com/discoveringrohit?igsh=d28zMWd6cXc3Y3o5" target="_blank">\n    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />\n  </a>\n  <a href="https://github.com/DiscoveringRohit" target="_blank">\n    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />\n  </a>\n</p>\n\n<br>\n\n<h2 align="center">🌌 About Me</h2>\n\n```yaml\nname: Rohit Kumar\nrole: Student & Aspiring Full-Stack Developer\neducation: ITER SOA (2nd Year, CSE)\nhobbies: [Coding, Learning new Tech, Building in Public]\nlocation: India\n```\n\n---\n\n<h2 align="center">🏆 GitHub Achievements</h2>\n\n<p align="center">\n  <a href="https://github.com/ryo-ma/github-profile-trophy">\n    <img src="https://github-profile-trophy.vercel.app/?username=DiscoveringRohit&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Rohit's Trophies" />\n  </a>\n</p>\n\n---\n\n<h2 align="center">⚡ Tech Stack & Tools</h2>\n\n<p align="center">\n  <a href="https://skillicons.dev">\n    <!-- Dynamic skill icons that are centered and beautiful -->\n    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,git,github,vscode,figma,postman&perline=6" />\n  </a>\n</p>\n\n---\n\n<h2 align="center">�️ Featured Projects</h2>\n\n<table align="center" style="width: 100%; text-align: center; margin: 0 auto;">\n  <tr>\n    <td align="center" width="50%">\n      <br>\n      <b><a href="https://github.com/DiscoveringRohit/OdishaExplorerHub">OdishaExplorerHub</a></b><br>\n      <i>HackOdisa Project - Exploring the beauty of Odisha</i><br><br>\n      <img src="https://skillicons.dev/icons?i=js,html,css" height="30" />\n      <br><br>\n    </td>\n    <td align="center" width="50%">\n      <br>\n      <b><a href="https://github.com/DiscoveringRohit/Raksha">Raksha</a></b><br>\n      <i>Women Safety Android/Web Application</i><br><br>\n      <img src="https://skillicons.dev/icons?i=java,html,css" height="30" />\n      <br><br>\n    </td>\n  </tr>\n  <tr>\n    <td align="center" width="50%">\n      <br>\n      <b><a href="https://github.com/DiscoveringRohit/My-portfolio">My Portfolio</a></b><br>\n      <i>Personal portfolio showcasing my skills</i><br><br>\n      <img src="https://skillicons.dev/icons?i=html,css,js" height="30" />\n      <br><br>\n    </td>\n    <td align="center" width="50%">\n      <br>\n      <b><a href="https://github.com/DiscoveringRohit/DSA-by_gdg-">DSA by GDG</a></b><br>\n      <i>My journey solving DSA problems</i><br><br>\n      <img src="https://skillicons.dev/icons?i=python" height="30" />\n      <br><br>\n    </td>\n  </tr>\n</table>\n\n---\n\n<h2 align="center">� GitHub Activity & Stats</h2>\n\n<div align="center">\n  <img src="https://github-readme-stats.vercel.app/api?username=DiscoveringRohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />\n  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiscoveringRohit&theme=tokyonight&hide_border=true" width="48%" />\n</div>\n<br>\n<div align="center">\n  <!-- Cool Compact Donut layout for Top Languages -->\n  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoveringRohit&layout=donut&theme=tokyonight&hide_border=true" width="42%" />\n</div>\n\n---\n\n<p align="center">\n  <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=DiscoveringRohit&label=Views&color=0e75b6&style=flat" alt="Profile Views" />\n</p>\n\n<div align="center">\n  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />\n</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Rohit%20Kumar&fontSize=62&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20in%20the%20Making%20%E2%80%A2%20CSE%20%40%20ITER%20SOA&descAlignY=58&descSize=17&animation=fadeIn" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=560&lines=⚡+Building+web+experiences+from+scratch;🔍+Solving+DSA+one+problem+at+a+time;🚀+Open+source+enthusiast+%26+learner;🌐+Turning+coffee+into+clean+code" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rohit-kumar-604884333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/discoveringrohit?igsh=d28zMWd6cXc3Y3o5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DiscoveringRohit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DiscoveringRohit&label=Profile+Views&color=7DF9FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+---
+
+## 🌌 Who Am I?
+
+```yaml
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   name       :  Rohit Kumar                          ║
+║   role       :  Student & Aspiring Full-Stack Dev    ║
+║   university :  ITER, SOA — 2nd Year CSE             ║
+║   location   :  Odisha, India 🇮🇳                    ║
+║   focus      :  Web Dev · DSA · Open Source          ║
+║   currently  :  Building in Public 🚀                ║
+║   philosophy :  "Ship it. Learn. Repeat."            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiscoveringRohit&theme=discord&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Rohit's GitHub Trophies" />
+</div>
+
+---
+
+## ⚡ Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs&perline=5" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=5" />
+
+</div>
+
+---
+
+## 🛠️ Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠 Stack |
+|:---:|:---:|:---:|
+| [**OdishaExplorerHub**](https://github.com/DiscoveringRohit/OdishaExplorerHub) | HackOdisha — Celebrating Odisha's culture & beauty | `JS` `HTML` `CSS` |
+| [**Raksha**](https://github.com/DiscoveringRohit/Raksha) | Women Safety Android & Web Application | `Java` `HTML` `CSS` |
+| [**My Portfolio**](https://github.com/DiscoveringRohit/My-portfolio) | Personal portfolio showcasing skills & journey | `HTML` `CSS` `JS` |
+| [**DSA by GDG**](https://github.com/DiscoveringRohit/DSA-by_gdg-) | Solving DSA problems — one day at a time | `Python` |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiscoveringRohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiscoveringRohit&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscoveringRohit&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiscoveringRohit/DiscoveringRohit/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiscoveringRohit/DiscoveringRohit/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/DiscoveringRohit/DiscoveringRohit/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> 💡 **To enable the snake animation:** Go to your profile repo → Actions → Enable workflows, then add the snake workflow from [platane/snk](https://github.com/platane/snk).
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ If you find my work interesting, consider starring some repos — it means a lot!</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
